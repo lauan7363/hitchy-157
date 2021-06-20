@@ -44,15 +44,15 @@ const titlemenumsgimg = 'BEM-VINDO'
 //Título no menu da imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
 
-const backgroundmenuimg = `https://i.imgur.com/J7aBqBu.jpg`
+const backgroundmenuimg = `https://i.imgur.com/8oLf9CS.png`
 //Link direto da imagem de fundo TAMANHO RECOMENDADO: 1280x720
 //Obs: não coloque o texto longo para a imagem não sumir
 
-const backgroundwelcomeimg = `https://i.imgur.com/J7aBqBu.jpg`
+const backgroundwelcomeimg = `https://i.imgur.com/qGqiUSs.png`
 //Link direto da imagem de fundo da boas-vindas TAMANHO RECOMENDADO: 1280x720
 //Obs: não coloque o texto longo para a imagem não sumir
 
-const backgroundbyeimg = `https://i.imgur.com/2jf4VPH.jpg`
+const backgroundbyeimg = `https://i.imgur.com/qGqiUSs.jpg`
 //Link direto da imagem de fundo das despedidas TAMANHO RECOMENDADO: 1280x720
 //Obs: não coloque o texto longo para a imagem não sumir
 
