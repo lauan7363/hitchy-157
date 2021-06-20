@@ -1,7 +1,7 @@
-const ownerNumber = ["557998295668@s.whatsapp.net"] 
+const ownerNumber = ["557187645787@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557998295668' 
+const OriginalOwner = '557187645787' 
 // mude para seu numero
 
 var gimagenotregister = false
@@ -13,7 +13,7 @@ var sgooglenotregister = false
 const antinewchatmsg = 'O anti chat novo está ativado e você não é meu proprietário, logo será bloqueado'
 //mensagem do antinewchat
 
-const urlaudiomenu = 'https://b.top4top.io/m_19960s5f30.mp3'
+const urlaudiomenu = 'https://b.top4top.io/m_19923zx481.mp3'
 // link direto da url do audio
 
 const antipvmsg = '*🚫 PV BLOQUEADO 🚫*'
@@ -29,13 +29,13 @@ const msgwelcomeimg = (numero, groupname) => {
 //Obs: não coloque o texto longo para a imagem não sumir
 
 const byemsgimg = (numero, groupname) => {
-    return `VLW, NÃO FAZ FALTA. ${numero}`
+    return `Adeus ${numero}`
 }
 //Texto de despedidas na imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
 
 const menumsgimg = (numero, groupname, battery) => {
-    return `MENU DO BOT COM 434 COMANDOS, BATERIA: ${battery}`
+    return `MENU DO BRIZAS-BOT COM 434 COMANDOS, BATERIA: ${battery}`
 }
 //Texto no menu da imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
@@ -44,51 +44,51 @@ const titlemenumsgimg = 'BEM-VINDO'
 //Título no menu da imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
 
-const backgroundmenuimg = `https://i.imgur.com/8oLf9CS.png`
+const backgroundmenuimg = `https://i.imgur.com/tVKFNFk.png`
 //Link direto da imagem de fundo TAMANHO RECOMENDADO: 1280x720
 //Obs: não coloque o texto longo para a imagem não sumir
 
-const backgroundwelcomeimg = `https://i.imgur.com/qGqiUSs.png`
+const backgroundwelcomeimg = `https://i.imgur.com/tVKFNFk.png`
 //Link direto da imagem de fundo da boas-vindas TAMANHO RECOMENDADO: 1280x720
 //Obs: não coloque o texto longo para a imagem não sumir
 
-const backgroundbyeimg = `https://i.imgur.com/qGqiUSs.jpg`
+const backgroundbyeimg = `https://i.imgur.com/2TCj9ri.jpg`
 //Link direto da imagem de fundo das despedidas TAMANHO RECOMENDADO: 1280x720
 //Obs: não coloque o texto longo para a imagem não sumir
 
 const apikeyimgbb = 'c9cf132756510ad171587fb5a5a0389f'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = '🌹⋆❝̶̬🍷𝐿𝐴𝑈𝐴𝑁-𝐷𝑂𝑀𝐼𝑁𝐴🍷❞̶̬⋆🌹\n' 
+const cr = '☄️✨𝑩𝑹⃟𝑰𝒁𝑨𝑺 𝑶⃟𝑹𝑰𝑶𝑵✨☄️\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
 // prefixo
 
-const blockedmsg = '*Se fudeu otário, agora vou te ignorar🤣🤣*'
+const blockedmsg = '*😜 Seu número esta bloqueado, ou seja não ouvindo você 😜*'
 // mensagem quando alguem bloqueado solicita um comando
 
-const blockedcmdmsg = '*🚫Este comando esta bloqueado contate o propitetário do bot para saber o porquê*'
+const blockedcmdmsg = '*🚫Este comando esta bloqueado contate o propitetário do bot para saber o pq🚫*'
 // mensagem quando alguem solicita um comando bloqueado 
 
 // MENSAGENS DE BAN
 
-const banmsgtype = '*Corra otário, estarei te caçando*'
+const banmsgtype = '*Corra membro comum, o ban estar próximo*'
 // mensagem de ban no anti tipos de mensagem
 
-const adminmsgtype = '*Vai se foder porra isso é proibido fdp*'
+const adminmsgtype = '*Tu é adm ent n vou te banir por mandar um tipo de mensagem proibida*'
 // mensagem de quando adm manda tipos de mensagens proibidas
 
-const banmsgporn = 'Hmmm pornozinho, já sabe né? vai ser kibado'
+const banmsgporn = 'Hmmm pornozinho com antiporn ativado, ja sabe né...'
 // mensagem de ban no antiporn
 
-const adminmsgporn = '*oh arrombado para de mandar pornô'
+const adminmsgporn = '*Tu é adm ent n vou te banir por mandar porn*'
 // mensagem de quando adm manda porn com antiporn ativado
 
-const banmsglink = 'Corra otário, estarei te caçando'
+const banmsglink = 'Corra Membro comum, O ban está próximo...'
 // mensagem de ban no antilink
 
-const adminmsglink = 'Cuidado ai pourra mandando link assim do nada'
+const adminmsglink = 'Isso é um link amigo... ah é tu é adm ent pode kkkk 🙃'
 // mensagem de quando adm manda link
 
 const adminmsgpalavra = 'isso esta na lista das palavras proibidas pelo bot'
@@ -97,7 +97,7 @@ const adminmsgpalavra = 'isso esta na lista das palavras proibidas pelo bot'
 const banmsgpalavra = 'Palavra proibida? Já sabe né'
 // mensagem de ban quando manda uma palavra proibida pelo bot
 
-const qnttravahardroleta = 0
+const qnttravahardroleta = 2
 // quantidade de travas que mandam no roleta russa hard
 // Obs: O valor é multiplicado por 12 ent tenha cuidado
 
@@ -124,35 +124,35 @@ const notregister = `*Comando não registrado, escreva ${prefix}menu para ver a 
 
 // MENSAGENS DE AUTOREPLY
 
-const botlindo = 'Ain vindo de você é um grande elogio 👉🏽👈🏽😳'
+const botlindo = 'Bakaaaa 😣😣'
 const linkbotlindo = 'https://photos1.iorbix.com/00/00/00/00/02/72/43/64/C--6tZwaASQH-b.jpg'
-const botfeio = 'KKKKKKK TA MIM ACHANDO COM CARA DE SEU PAI É?'
-const cadebot = 'OLHA EU AQUI FDP'
-const botfdp = 'FDP e você seu lixo, eu deitar você na porrada enquanto você coça o cú você vai ver'
-const botgostoso = 'Sou mesmo otário'
-const botfofo = 'Uiui chupa meu pau'
-const botbaianor = 'KKKKKKK MIM DA UMA REDE? 👉🏽👈🏽😳'
-const botcorno = 'SAI DAQUI JOGADOR DE FOGAREL GRATUITO, KKKKKKK COMPRA PECKZINHO DE E-GRILO'
-const botputa = 'KKKKKKK TA VENDO SUA MÃE AQUI???'
-const botgay = 'KKKKKK Ala acha que sou espelho 🤣🤣🤣🤣🤣🤣'
-const botviado = 'Ala o traveco de 2 reais 🤣🤣🤣'
-const numbotfeio = 'Sou teu irmão fdp 🤣🤣🤣🤣'
+const botfeio = 'Tu parece um sirgueijo, um caranguejo amassado 😡'
+const cadebot = 'Me chamou onii-chan 👉👈?'
+const botfdp = 'Te foder rapaz, te deitar na porrada quando tiver dormindo'
+const botgostoso = 'Arigato go sai masu 😳👉👈'
+const botfofo = 'Arigato go sai masu 😳👉👈'
+const botbaianor = 'Convidei sua placa-mãe pra minha rede seu corno'
+const botcorno = 'Vai te foder, jogador de ff, comprador de pack do pézinho'
+const botputa = 'Senhora sua mãe 😡'
+const botgay = 'Falou o manja rola 😡'
+const botviado = 'Falou o manja rola 😡'
+const numbotfeio = 'senhora sua mãe 😡'
 // KEYS
 
 // MENSAGENS DE EXCLUSIVIDADE
 let mess = {
-    wait: '⌛ ESPERA AI ESTOU FAZENDO✋🏽🐊⌛',
-    success: '✔️ SUCESSO MEU PEIXE ✔️',
+    wait: '⌛ Aguarde um pouco... ⌛',
+    success: '✔️ Sucesso! ✔️',
     error: {
-        stick: '❌ DEU ERRO, TENTE NOVAMENTE. SE NÃO FUNCIONAR DESISTA! ❌',
+        stick: '❌ Falha, ocorreu um erro ao converter a imagem em um adesivo ❌',
         Iv: '❌ Link inválido ❌'
     },
     only: {
-        group: '❌ ISSO É UM GRUPO? NÃO NÉ PORRA ❌',
-        ownerG: '❌ SÓ PODE USAR NO GRUPO PROPRIETÁRIO ❌',
-        ownerB: '❌ SÓ 𠫓𝑅𝐸𝑌𝑍𝐼𝑁𝐻𝑂 𝐷𝑂 𝐻𝑌𝑃𝐸𠫓 ❌',
-        admin: '❌ CALA BOCA OTÁRIO SÓ ADM PODE USAR ESSE COMANDO ❌',
-        Badmin: '❌ Esse comando só é liberado quando eu virar ADM ❌'
+        group: '❌ Este comando só pode ser usado em grupos! ❌',
+        ownerG: '❌ Este comando só pode ser usado pelo grupo proprietário! ❌',
+        ownerB: '❌ Este comando só pode ser usado pelo número proprietário! ❌',
+        admin: '❌ SILÊNCIO MEMBRO COMUM VC N TEM MORAL PRA USAR ESSE COMANDO ❌',
+        Badmin: '❌ Este comando só pode ser usado quando o bot se torna administrador! ❌'
     }
 }
 
@@ -160,9 +160,9 @@ let mess = {
 
 const vcard = 'BEGIN:VCARD\n' 
 + 'VERSION:3.0\n' 
-+ 'FN:𠫓𝑅𝐸𝑌𝑍𝐼𝑁𝐻𝑂 𝐷𝑂 𝐻𝑌𝑃𝐸𠫓\n' 
++ 'FN:Meu criador^~^\n' 
 + 'ORG:Ian;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=557998295668:+55 79 9829-5668\n' 
++ 'TEL;type=CELL;type=VOICE;waid=557187645787:+55 71 8764-5787\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
