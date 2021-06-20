@@ -59,7 +59,8 @@ const backgroundbyeimg = `https://i.imgur.com/2TCj9ri.jpg`
 const apikeyimgbb = 'c9cf132756510ad171587fb5a5a0389f'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = '🌹⋆❝̶̬🍷𝐿𝐴𝑈𝐴𝑁-𝐷𝑂𝑀𝐼𝑁𝐴🍷❞̶̬⋆🌹\n' 
+burn.sendMessage(from,  foto, image,  {quoted: mek, quoted: { key: { fromMe:  false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg","caption": "🌹⋆❝̶̬🍷𝐿𝐴𝑈𝐴𝑁-𝐷𝑂𝑀𝐼𝑁𝐴🍷❞̶̬⋆🌹", 'jpegThumbnail': fs.readFileSync('kk/sticker/botlogo.webp')}}}, caption: shiz(prefix)})
+
 const cr = '🌹⋆❝̶̬🍷𝐿𝐴𝑈𝐴𝑁-𝐷𝑂𝑀𝐼𝑁𝐴🍷❞̶̬⋆🌹\n' 
 // texto do simbolo de verificado
 
