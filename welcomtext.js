@@ -1,6 +1,5 @@
-const welcome = (number, groupname, date, user, wame, description) => {
-    return `
-🌹 𝙾𝙻𝙰 @${number}, 𝚂𝙴𝙹𝙰 𝙱𝙴𝙼 𝚅𝙸𝙽𝙳𝙾 𝙰𝙾 ${groupname}.
+const welcome = (number, user, wame, date, groupname) => {
+    return `🌹 𝙾𝙻𝙰 @${number}, 𝚂𝙴𝙹𝙰 𝙱𝙴𝙼 𝚅𝙸𝙽𝙳𝙾 𝙰𝙾 ${groupname}.
 🌹 𝚄𝚂𝚄𝙰𝚁𝙸𝙾 : *${user}*
 🌹 𝙲𝙾𝙽𝚃𝙰𝚃𝙾 : *${wame}*
 🌹 𝙳𝙰𝚃𝙰/𝙷𝙾𝚁Á𝚁𝙸𝙾 : *${date}*
@@ -11,11 +10,7 @@ const welcome = (number, groupname, date, user, wame, description) => {
 🌹 *!menu*
 🌹 *!help*
 🌹 *!ajuda*
-🌹 *!comandos* 
-
-⚠𝐋𝐄𝐈𝐀 𝐀𝐒 𝐑𝐄𝐆𝐑𝐀𝐒 ⚠
-
-${description} `
+🌹 *!comandos*`
 }
 exports.welcome = welcome
 
