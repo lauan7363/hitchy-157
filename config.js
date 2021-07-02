@@ -61,10 +61,10 @@ const backgroundbyeimg = `https://i.imgur.com/2TCj9ri.jpg`
 const apikeyimgbb = 'c9cf132756510ad171587fb5a5a0389f'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = '🌹⋆❝̶̬🍷𝐿𝐴𝑈𝐴𝑁-𝐷𝑂𝑀𝐼𝑁𝐴🍷❞̶̬⋆🌹\n' 
+const cr = 'LAUAN O PIKA DE AÇO COMEDOR DE CASADAS O FAMOSO REI DELAS, O MAIS GOSTOSO DE TODOS, O MAIS BRABO ENTRE OS PITBULL DE RAÇA\n' 
 // texto do simbolo de verificado
 
-const prefix = '/' 
+const prefix = '/, !' 
 // prefixo
 
 const blockedmsg = '*Se fudeu otário, agora vou te ignorar🤣🤣*'
@@ -162,7 +162,7 @@ let mess = {
 
 const vcard = 'BEGIN:VCARD\n' 
 + 'VERSION:3.0\n' 
-+ 'FN:LAUAN O PIKA DE AÇO COMEDOR DE CASADAS O FAMOSO REI DELAS O MAIOR PEGADOR DE TODOS OS TEMPOS, O MAIS BRABO ENTRE OS PITBULL DE RAÇA\n' 
++ 'FN: COMEDOR DE CASADAS\n' 
 + 'ORG:Ian;\n' 
 + 'TEL;type=CELL;type=VOICE;waid=557998295668:+55 79 9829-5668\n' 
 + 'END:VCARD'
