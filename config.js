@@ -61,7 +61,7 @@ const backgroundbyeimg = `https://i.imgur.com/2TCj9ri.jpg`
 const apikeyimgbb = 'c9cf132756510ad171587fb5a5a0389f'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = 'LAUAN O PIKA DE AÇO COMEDOR DE CASADAS O FAMOSO REI DELAS, O MAIS GOSTOSO DE TODOS, O MAIS BRABO ENTRE OS PITBULL DE RAÇA\n' 
+const cr = '*𝐇𝐈𝐓𝐂𝐇𝐘-𝟏𝟓𝟕 𝐎 𝐆𝐀𝐓Ã𝐎 𝐄 𝐆𝐎𝐒𝐓𝐎𝐒𝐎 𝐕𝐔𝐆𝐎 𝐎 𝐏𝐈𝐊𝐀 𝐃𝐄 𝐀Ç𝐎 𝐂𝐎𝐌𝐄𝐃𝐎𝐑 𝐃𝐄 𝐂𝐀𝐒𝐀𝐃𝐀𝐒 𝐎 𝐅𝐀𝐌𝐎𝐒𝐎 𝐑𝐄𝐈 𝐃𝐄𝐋𝐀𝐒 𝐎 𝐌𝐀𝐈𝐒 𝐆𝐎𝐒𝐓𝐎𝐒𝐎 𝐄 𝐃𝐄𝐒𝐄𝐉𝐀𝐃𝐎 𝐏𝐎𝐑 𝐓𝐎𝐃𝐀𝐒, 𝐎 𝐌𝐀𝐈𝐒 𝐁𝐑𝐀𝐁𝐎 𝐄𝐍𝐓𝐑𝐄 𝐎𝐒 𝐏𝐈𝐓𝐁𝐔𝐋𝐋 𝐃𝐄 𝐑𝐀Ç𝐀 𝐎 𝐅𝐀𝐌𝐎𝐒𝐎 𝐏𝐈𝐊𝐀 𝐃𝐀𝐒 𝐆𝐀𝐋Á𝐗𝐈𝐀𝐒, 𝐎 𝐌𝐀𝐈𝐒 𝐅𝐎𝐃𝐀 𝐃𝐄 𝐓𝐎𝐃𝐎𝐒*\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
