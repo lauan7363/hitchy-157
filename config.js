@@ -19,6 +19,8 @@ const urlaudiomenu = 'https://b.top4top.io/m_19923zx481.mp3'
 const antipvmsg = '*🚫 PV BLOQUEADO 🚫*'
 //mensagem do antipv
 
+const limitqnt = 9999
+
 const delayantispamcmd = 3
 //tempo de delay do antispamcmd (medido por segundos)
 
@@ -62,7 +64,7 @@ const apikeyimgbb = 'c9cf132756510ad171587fb5a5a0389f'
 const cr = '🌹⋆❝̶̬🍷𝐿𝐴𝑈𝐴𝑁-𝐷𝑂𝑀𝐼𝑁𝐴🍷❞̶̬⋆🌹\n' 
 // texto do simbolo de verificado
 
-const prefix = '!' 
+const prefix = '/' 
 // prefixo
 
 const blockedmsg = '*Se fudeu otário, agora vou te ignorar🤣🤣*'
@@ -97,7 +99,7 @@ const adminmsgpalavra = 'isso esta na lista das palavras proibidas pelo bot'
 const banmsgpalavra = 'Palavra proibida? Já sabe né'
 // mensagem de ban quando manda uma palavra proibida pelo bot
 
-const qnttravahardroleta = 0
+const qnttravahardroleta = 2
 // quantidade de travas que mandam no roleta russa hard
 // Obs: O valor é multiplicado por 12 ent tenha cuidado
 
@@ -160,7 +162,7 @@ let mess = {
 
 const vcard = 'BEGIN:VCARD\n' 
 + 'VERSION:3.0\n' 
-+ 'FN:𠫓𝑅𝐸𝑌𝑍𝐼𝑁𝐻𝑂 𝐷𝑂 𝐻𝑌𝑃𝐸𠫓\n' 
++ 'FN:LAUAN O PIKA DE AÇO COMEDOR DE CASADAS O FAMOSO REI DELAS O MAIOR PEGADOR DE TODOS OS TEMPOS, O MAIS BRABO ENTRE OS PITBULL DE RAÇA\n' 
 + 'ORG:Ian;\n' 
 + 'TEL;type=CELL;type=VOICE;waid=557998295668:+55 79 9829-5668\n' 
 + 'END:VCARD'
@@ -169,6 +171,7 @@ const vcard = 'BEGIN:VCARD\n'
 
 
 // Nem ouse mexer aqui se n quiser que de erro
+exports.limitqnt = limitqnt
 exports.urlaudiomenu = urlaudiomenu
 exports.delayantispamcmd = delayantispamcmd
 exports.antinewchatmsg = antinewchatmsg
