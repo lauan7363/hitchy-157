@@ -64,7 +64,7 @@ const apikeyimgbb = 'c9cf132756510ad171587fb5a5a0389f'
 const cr = 'LAUAN O PIKA DE AÇO COMEDOR DE CASADAS O FAMOSO REI DELAS, O MAIS GOSTOSO DE TODOS, O MAIS BRABO ENTRE OS PITBULL DE RAÇA\n' 
 // texto do simbolo de verificado
 
-const prefix = '/, !' 
+const prefix = '!' 
 // prefixo
 
 const blockedmsg = '*Se fudeu otário, agora vou te ignorar🤣🤣*'
