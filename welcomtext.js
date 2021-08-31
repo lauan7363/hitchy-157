@@ -17,4 +17,4 @@ exports.welcome = welcome
 const bye = (number) => {
     return `𝚅𝙰𝙻𝙴𝚄 𝙼𝙴𝚄 𝙲𝚁𝙸𝙰 @${number}, 𝙳𝙴𝙿𝙾𝙸𝚂 𝙽Ã𝙾 𝙿𝙴𝙳𝙴 𝙻𝙸𝙽𝙺 𝙿𝚁𝙰 𝙴𝙽𝚃𝚁𝙰𝚁. 🤬👺`
 }
-exports.bye = bye
+exports.bye = bye 
